@@ -1,6 +1,11 @@
 # security_memo
 セキュリティのメモ
 
+## 参考URL
+https://www.ipa.go.jp/security/ciadr/vul/20150629-checkpc.html
+
+https://www.ipa.go.jp/files/000046546.pdf
+
 ## 不審なファイル
 ```
 leanp.exe
