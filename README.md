@@ -62,17 +62,17 @@ netstat /nao
 
 ## タスクリストよりプログラムを確認
 ```
-tasklist /FI "PID eq 5348"
+tasklist /FI "PID eq 1234"
 ```
 
 ↓
 
 ```
-C:\Users\m_shi_000>tasklist /FI "PID eq 2240"
+C:\>tasklist /FI "PID eq 1234"
 
 イメージ名                     PID セッション名     セッション# メモリ使用量
 ========================= ======== ================ =========== ============
-Dropbox.exe                   2240 Console                    1    106,992 K
+Dropbox.exe                   1234 Console                    1    106,992 K
 
 C:\>
 ```
